@@ -4,4 +4,283 @@
    <FileRef
       location = "group:README.md">
    </FileRef>
+   <FileRef
+      location = "group:ClearSnippets.command">
+   </FileRef>
+   <FileRef
+      location = "group:ExportSnippets.command">
+   </FileRef>
+   <FileRef
+      location = "group:FindNewSnippets.command">
+   </FileRef>
+   <FileRef
+      location = "group:ImportSnippets.command">
+   </FileRef>
+   <FileRef
+      location = "group:GitUpdate.command">
+   </FileRef>
+   <FileRef
+      location = "group:snippets.sh">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_animblock.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_animfullblock.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_animspringblock.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_appearance_spelunk_block.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_assert_main_thread.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_block_inline.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_block_named_variable.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_block_peform_after_delay.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_blockmethod.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_blocknoparamsmethod.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_class_extension.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_collectionview_delegate.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_constraints_fill.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_date_is_after.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_debuglog_method.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_debuglog.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_debuglogd.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_define_gcd_run_on_main_queue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_define_macros.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_define_singleton_macro.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_deprecated.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_directory_exists.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_dl_error.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_dl_object.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_dl.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_document_delete.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_draw_image_method.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_draw_image_with_block.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_error_create.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_file_exists.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_fmtdatetime.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_async_wait.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_asyncqueue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_default_priority_queue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_dispatchafter.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_getqueuelabel.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_high_priority_queue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_low_priority_queue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_main_queue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_gcd_wait_for_blocks.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_height_for_vc_view.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_height_main_screen.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_image_resize_to_max.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_inline_block_variable.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_is_ios7_or_later.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_isviewcontrollervisible.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_localized_string.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_log_fonts.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_log_mode.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_log.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_maassert_defined.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_maassert.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_method.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_block_observer_property.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_handler.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_named_block.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_observe.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_observer_property.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_observewithblock.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_post_with_userinfo.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_post.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_remove_block_observer.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_notification_remove.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_nsassert_blocks.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_nsassert.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_pragma_unused.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_prepareforsegue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_prop.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_run_on_main_thread.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_section_header.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_constant_header.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_constant_implementation.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_contains.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_height_attributed.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_height_regular.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_string_starts_with.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_strong_self.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_suppress_deprecation_warnings.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_tableview_delegates.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_udid_create.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_unwind_segue.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_viewdidappear.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_viewdiddisappear.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_viewdidload.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_viewwillappear.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_viewwilldissappear.codesnippet">
+   </FileRef>
+   <FileRef
+      location = "group:AKz_weak_self.codesnippet">
+   </FileRef>
 </Workspace>
